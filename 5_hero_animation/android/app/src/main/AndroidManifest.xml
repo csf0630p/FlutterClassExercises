@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.neu.winter2019">
+    package="com.neu.heroanimation">
 
     <!-- The INTERNET permission is required for development. Specifically,
          flutter needs it to communicate with the running application
@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="winter2019"
+        android:label="hero_animation"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,4 +1,4 @@
-package com.neu.winter2019;
+package com.neu.heroanimation;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
