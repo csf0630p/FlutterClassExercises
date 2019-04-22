@@ -1,0 +1,4 @@
+#Sun Apr 21 17:40:21 PDT 2019
+base.0=C\:\\Users\\csf-sp\\Documents\\GitHub\\FlutterClassExercises\\1_hello_world\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
